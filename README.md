@@ -1,3 +1,3 @@
-java project 
-this is my first project 
+java project. 
+ My first project, 
 Author: Mohammad Ali Masud
